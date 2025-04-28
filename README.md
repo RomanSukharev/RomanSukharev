@@ -36,8 +36,8 @@
 ---
 
 ### 📫 Связаться со мной:
-- **Telegram:** [@твое_имя](https://t.me/твое_имя)
-- **Email:** твой@email.com
+- **Telegram:** [@oaskae](https://t.me/oaskae)
+- **Email:** roman_sukharev_7409@mail.ru
 
 ---
 
