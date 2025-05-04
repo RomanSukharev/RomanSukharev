@@ -5,13 +5,39 @@
 ---
 
 ### 🛠️ Стек технологий:
-- **Фреймворки:** Nuxt.js (v3), Vue.js (v2/v3)
-- **Состояние:** Pinia, Vuex
-- **Языки программирования:** JavaScript (ES6+), TypeScript
-- **Разметка и стили:** HTML5, CSS3 (SaaS, БЭМ)
-- **API:** JSON API, GraphQL
-- **Инструменты:** Git, Gitflow, Figma, VueApollo
-- **Разработка приложений:** SPA, UI/UX проектирование
+
+#### **Фреймворки:**
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+#### **Состояние:**
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
+![Vuex](https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vue.js&logoColor=white)
+
+#### **Языки программирования:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### **Разметка и стили:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logoColor=white)
+
+#### **API:**
+![JSON API](https://img.shields.io/badge/JSON_API-000000?style=for-the-badge&logo=json&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+#### **Инструменты:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gitflow](https://img.shields.io/badge/Gitflow-2862E9?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VueApollo](https://img.shields.io/badge/VueApollo-42B883?style=for-the-badge&logo=apollographql&logoColor=white)
+
+#### **Разработка приложений:**
+![SPA](https://img.shields.io/badge/SPA-Single_Page_App-FF7A59?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-0A0A0A?style=for-the-badge&logoColor=white)
+
 
 ---
 
